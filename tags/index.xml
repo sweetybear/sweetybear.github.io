@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel><title>Tags on 熊爪蛋糕屋</title>
+    <link>https://example.org/tags/</link>
+    <description>Recent content from 熊爪蛋糕屋</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>xxx@example.com (熊小令)</managingEditor>
+    <webMaster>xxx@example.com (熊小令)</webMaster>
+    
+    <copyright>All website licensed under CC BY 4.0</copyright>
+    
+    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss&#43;xml" />
+    
+  </channel>
+</rss>
