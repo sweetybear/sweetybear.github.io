@@ -18,11 +18,11 @@
     
     
     <item>
-      <title>我的第3篇文章</title>
+      <title>我的第5篇文章</title>
       <link>https://example.org/post/2025-5-14/</link>
       <pubDate>Tue, 13 May 2025 21:46:25 &#43;0800</pubDate><author>xxx@example.com (熊小令)</author>
       <guid>https://example.org/post/2025-5-14/</guid>
-      <description><![CDATA[<h1>我的第3篇文章</h1><p>作者: 熊小令 (xxx@example.com)</p>
+      <description><![CDATA[<h1>我的第5篇文章</h1><p>作者: 熊小令 (xxx@example.com)</p>
           <h1 id="一号">
 <a class="header-anchor" href="#%e4%b8%80%e5%8f%b7"></a>
 一号
@@ -32,7 +32,7 @@
 <h2 id="二级">
 <a class="header-anchor" href="#%e4%ba%8c%e7%ba%a7"></a>
 二级
-</h2>
+</h2><p>sdkfakj</p>
         <hr><p>本文 2025-05-13 首发于 <a href='https://example.org/'>熊爪蛋糕屋</a>，最后修改于 2025-05-13</p>]]>
       </description>
     </item>
