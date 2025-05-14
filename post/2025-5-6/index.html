@@ -1,11 +1,11 @@
 <!doctype html>
 <html
-  lang="en-us" 
+  lang="zh-cn" 
   
     data-theme-mode="auto"
   
 >
-  <head>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=56636&amp;path=livereload" data-no-instant defer></script>
     
     <meta charset="utf-8" />
 <meta
@@ -42,7 +42,7 @@
 
 
 <script>
-  window.siteConfig = JSON.parse("{\"anchor_icon\":null,\"base\":\"https://example.org/\",\"clipboard\":{\"copyright\":{\"content\":\"本文版权：本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！\",\"count\":50,\"enable\":false},\"fail\":\"复制失败 (ﾟ⊿ﾟ)ﾂ\",\"success\":\"复制成功(*^▽^*)\"},\"code_block\":{\"expand\":true},\"icon_font\":\"4552607_0khxww3tj3q9\",\"outdate\":{\"daysago\":180,\"enable\":false,\"message\":\"本文最后更新于 {time}，请注意文中内容可能已经发生变化。\"}}");
+  window.siteConfig = JSON.parse("{\"anchor_icon\":null,\"base\":\"http://localhost:56636/\",\"clipboard\":{\"copyright\":{\"content\":\"本文版权：本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！\",\"count\":50,\"enable\":false},\"fail\":\"复制失败 (ﾟ⊿ﾟ)ﾂ\",\"success\":\"复制成功(*^▽^*)\"},\"code_block\":{\"expand\":true},\"icon_font\":\"4552607_0khxww3tj3q9\",\"outdate\":{\"daysago\":180,\"enable\":false,\"message\":\"本文最后更新于 {time}，请注意文中内容可能已经发生变化。\"}}");
   
 </script>
 
@@ -109,9 +109,7 @@
 
 
 
-
-  
- <link rel="stylesheet" href="/css/loader.min.ac746e154f756f8220326eeb52a719f142ab038be5a8ddf30ea5ef15ef2356ea.css" />
+ <link rel="stylesheet" href="/css/loader.css" />
 
 
 
@@ -122,7 +120,7 @@
     property="og:description"
     content="少女祈祷中..."
   />
-  <meta property="og:url" content="https://example.org/post/2025-5-6/" />
+  <meta property="og:url" content="http://localhost:56636/post/2025-5-6/" />
   <meta
     property="og:site_name"
     content="熊爪蛋糕屋"
@@ -155,9 +153,7 @@
 
 
 
-
-  
- <link rel="stylesheet" href="/css/main.min.380fb6c29be7e5ad23ba6a14aea4df8baab409bb3449a6860e7e3e6fd46ec8a0.css" />
+ <link rel="stylesheet" href="/css/main.css" />
 
 
 
@@ -274,7 +270,7 @@
 <div id="copy-tooltip" style="pointer-events: none; opacity: 0; transition: all 0.2s ease; position: fixed;top: 50%;left: 50%;z-index: 999;transform: translate(-50%, -50%);color: white;background: rgba(0, 0, 0, 0.5);padding: 10px 15px;border-radius: 10px;">
 </div>
 <div id="lang-tooltip" style="pointer-events: none; opacity: 0; transition: all 0.2s ease; position: fixed;top: 50%;left: 50%;z-index: 999;transform: translate(-50%, -50%);color: white;background: rgba(0, 0, 0, 0.5);padding: 10px 15px;border-radius: 10px;">
-This article does not have a corresponding language version
+本文章没有找到对应的语言版本
 </div>
 
 
@@ -292,7 +288,7 @@ This article does not have a corresponding language version
             
           
         </div>
-        <a class="main-nav-link" href="/">Home</a>
+        <a class="main-nav-link" href="/">首页</a>
       </span>
     
       <span class="main-nav-link-wrap">
@@ -303,7 +299,7 @@ This article does not have a corresponding language version
             
           
         </div>
-        <a class="main-nav-link" href="/archives">Archives</a>
+        <a class="main-nav-link" href="/Book"></a>
       </span>
     
       <span class="main-nav-link-wrap">
@@ -314,7 +310,7 @@ This article does not have a corresponding language version
             
           
         </div>
-        <a class="main-nav-link" href="/about">About</a>
+        <a class="main-nav-link" href="/archives">归档</a>
       </span>
     
       <span class="main-nav-link-wrap">
@@ -325,7 +321,18 @@ This article does not have a corresponding language version
             
           
         </div>
-        <a class="main-nav-link" href="/friend">Friend</a>
+        <a class="main-nav-link" href="/about">关于</a>
+      </span>
+    
+      <span class="main-nav-link-wrap">
+        <div class='main-nav-icon icon rotate'>
+          
+            
+              &#xe62b;
+            
+          
+        </div>
+        <a class="main-nav-link" href="/friend">友链</a>
       </span>
     
     <a id="main-nav-toggle" class="nav-icon"></a>
@@ -391,7 +398,7 @@ This article does not have a corresponding language version
         
           <div class="sidebar-toc-sidebar">
             <div class="sidebar-toc">
-  <h3 class="toc-title">Contents</h3>
+  <h3 class="toc-title">文章目录</h3>
   <div class="sidebar-toc-wrapper toc-div-class">
     <nav id="TableOfContents">
   <ul>
@@ -427,18 +434,18 @@ This article does not have a corresponding language version
 </div>
 <div class="sidebar-state">
   <div class="sidebar-state-article">
-    <div>Posts</div>
+    <div>文章</div>
     
     <div class="sidebar-state-number">3</div>
   </div>
   <div class="sidebar-state-category">
-    <div>Categories</div>
+    <div>分类</div>
     <div class="sidebar-state-number">
       0
     </div>
   </div>
   <div class="sidebar-state-tag">
-    <div>Tags</div>
+    <div>标签</div>
     <div class="sidebar-state-number">0</div>
   </div>
 </div>
@@ -451,7 +458,7 @@ This article does not have a corresponding language version
       <a
         class="sidebar-menu-link-dummy"
         href="/"
-        aria-label="Home"
+        aria-label="首页"
       ></a>
       <div class='sidebar-menu-icon icon rotate'>
         
@@ -460,14 +467,30 @@ This article does not have a corresponding language version
           
         
       </div>
-      <div class="sidebar-menu-link">Home</div>
+      <div class="sidebar-menu-link">首页</div>
+    </div>
+  
+    <div class="sidebar-menu-link-wrap">
+      <a
+        class="sidebar-menu-link-dummy"
+        href="/Book"
+        aria-label=""
+      ></a>
+      <div class='sidebar-menu-icon icon rotate'>
+        
+          
+            &#xe62b;
+          
+        
+      </div>
+      <div class="sidebar-menu-link"></div>
     </div>
   
     <div class="sidebar-menu-link-wrap">
       <a
         class="sidebar-menu-link-dummy"
         href="/archives"
-        aria-label="Archives"
+        aria-label="归档"
       ></a>
       <div class='sidebar-menu-icon icon rotate'>
         
@@ -476,14 +499,14 @@ This article does not have a corresponding language version
           
         
       </div>
-      <div class="sidebar-menu-link">Archives</div>
+      <div class="sidebar-menu-link">归档</div>
     </div>
   
     <div class="sidebar-menu-link-wrap">
       <a
         class="sidebar-menu-link-dummy"
         href="/about"
-        aria-label="About"
+        aria-label="关于"
       ></a>
       <div class='sidebar-menu-icon icon rotate'>
         
@@ -492,14 +515,14 @@ This article does not have a corresponding language version
           
         
       </div>
-      <div class="sidebar-menu-link">About</div>
+      <div class="sidebar-menu-link">关于</div>
     </div>
   
     <div class="sidebar-menu-link-wrap">
       <a
         class="sidebar-menu-link-dummy"
         href="/friend"
-        aria-label="Friend"
+        aria-label="友链"
       ></a>
       <div class='sidebar-menu-icon icon rotate'>
         
@@ -508,7 +531,7 @@ This article does not have a corresponding language version
           
         
       </div>
-      <div class="sidebar-menu-link">Friend</div>
+      <div class="sidebar-menu-link">友链</div>
     </div>
   
 </div>
@@ -656,7 +679,7 @@ move on
           
         
         <a href="/post/2025-4-22/"></a>
-        <div class="article-nav-caption">Newer</div>
+        <div class="article-nav-caption">前一篇</div>
         <h3 class="article-nav-title">
           
             熊爪蛋糕屋第一天营业
@@ -671,15 +694,15 @@ move on
           <img
             data-src="https://i.vgy.me/l1x8ET.jpg"
             data-sizes="auto"
-            alt="我的第5篇文章"
+            alt="人类使用说明书【前传】"
             class="lazyload"
           />
         
         <a href="/post/2025-5-14/"></a>
-        <div class="article-nav-caption">Older</div>
+        <div class="article-nav-caption">后一篇</div>
         <h3 class="article-nav-title">
           
-            我的第5篇文章
+            人类使用说明书【前传】
           
         </h3>
       </div>
@@ -725,7 +748,7 @@ move on
 
 
 <footer id="footer">
-  <script src=https://example.org/background/sakura.js></script>
+  <script src=http://localhost:56636/background/sakura.js></script>
 
   <div style="width: 100%; overflow: hidden">
     <div class="footer-line"></div>
@@ -743,7 +766,7 @@ move on
     </div>
     
       <div>
-        Powered by&nbsp;<a
+        基于&nbsp;<a
           href="https://gohugo.io/"
           target="_blank"
           >Hugo</a
@@ -758,7 +781,7 @@ move on
       <div>
         <span class="icon-brush"
           >&nbsp;
-            94
+            5.0k
           </span
         >
         &nbsp;|&nbsp;
@@ -766,7 +789,7 @@ move on
           
           
 
-          00:03
+          00:11
         </span>
       </div>
     
@@ -776,14 +799,14 @@ move on
       <div>
         <span class="icon-eye"></span>
         <span id="busuanzi_container_site_pv"
-          >Number of visits&nbsp;<span
+          >总访问量&nbsp;<span
             id="busuanzi_value_site_pv"
           ></span
         ></span>
         &nbsp;|&nbsp;
         <span class="icon-user"></span>
         <span id="busuanzi_container_site_uv"
-          >Number of visitors&nbsp;<span
+          >总访客量&nbsp;<span
             id="busuanzi_value_site_uv"
           ></span
         ></span>
@@ -806,7 +829,7 @@ move on
       
         <div class="sidebar-toc-sidebar">
           <div class="sidebar-toc">
-  <h3 class="toc-title">Contents</h3>
+  <h3 class="toc-title">文章目录</h3>
   <div class="sidebar-toc-wrapper toc-div-class">
     <nav id="TableOfContents">
   <ul>
@@ -842,18 +865,18 @@ move on
 </div>
 <div class="sidebar-state">
   <div class="sidebar-state-article">
-    <div>Posts</div>
+    <div>文章</div>
     
     <div class="sidebar-state-number">3</div>
   </div>
   <div class="sidebar-state-category">
-    <div>Categories</div>
+    <div>分类</div>
     <div class="sidebar-state-number">
       0
     </div>
   </div>
   <div class="sidebar-state-tag">
-    <div>Tags</div>
+    <div>标签</div>
     <div class="sidebar-state-number">0</div>
   </div>
 </div>
@@ -866,7 +889,7 @@ move on
       <a
         class="sidebar-menu-link-dummy"
         href="/"
-        aria-label="Home"
+        aria-label="首页"
       ></a>
       <div class='sidebar-menu-icon icon rotate'>
         
@@ -875,14 +898,30 @@ move on
           
         
       </div>
-      <div class="sidebar-menu-link">Home</div>
+      <div class="sidebar-menu-link">首页</div>
+    </div>
+  
+    <div class="sidebar-menu-link-wrap">
+      <a
+        class="sidebar-menu-link-dummy"
+        href="/Book"
+        aria-label=""
+      ></a>
+      <div class='sidebar-menu-icon icon rotate'>
+        
+          
+            &#xe62b;
+          
+        
+      </div>
+      <div class="sidebar-menu-link"></div>
     </div>
   
     <div class="sidebar-menu-link-wrap">
       <a
         class="sidebar-menu-link-dummy"
         href="/archives"
-        aria-label="Archives"
+        aria-label="归档"
       ></a>
       <div class='sidebar-menu-icon icon rotate'>
         
@@ -891,14 +930,14 @@ move on
           
         
       </div>
-      <div class="sidebar-menu-link">Archives</div>
+      <div class="sidebar-menu-link">归档</div>
     </div>
   
     <div class="sidebar-menu-link-wrap">
       <a
         class="sidebar-menu-link-dummy"
         href="/about"
-        aria-label="About"
+        aria-label="关于"
       ></a>
       <div class='sidebar-menu-icon icon rotate'>
         
@@ -907,14 +946,14 @@ move on
           
         
       </div>
-      <div class="sidebar-menu-link">About</div>
+      <div class="sidebar-menu-link">关于</div>
     </div>
   
     <div class="sidebar-menu-link-wrap">
       <a
         class="sidebar-menu-link-dummy"
         href="/friend"
-        aria-label="Friend"
+        aria-label="友链"
       ></a>
       <div class='sidebar-menu-icon icon rotate'>
         
@@ -923,7 +962,7 @@ move on
           
         
       </div>
-      <div class="sidebar-menu-link">Friend</div>
+      <div class="sidebar-menu-link">友链</div>
     </div>
   
 </div>
@@ -1006,7 +1045,7 @@ move on
 
   
       
-      <script src="/js/main.js" integrity="" crossorigin="anonymous" ></script>
+      <script src="/js/main.js" ></script>
       
 
 
@@ -1019,7 +1058,7 @@ move on
 
   
       
-      <script src="/js/aos.js" integrity="" crossorigin="anonymous" ></script>
+      <script src="/js/aos.js" ></script>
       
 
   <script>
@@ -1047,7 +1086,7 @@ move on
 
   
       
-      <script src="/js/pjax_main.js" integrity="" crossorigin="anonymous" data-pjax></script>
+      <script src="/js/pjax_main.js" data-pjax></script>
       
 
 
@@ -1128,9 +1167,9 @@ move on
         window.REIMU_POST = {
           author: "熊小令",
           title: "熊爪蛋糕屋第二天营业",
-          url: "https:\/\/example.org\/post\/2025-5-6\/",
-          description: "\r愿景板\r2024愿景板\r我2024也做过一个愿景板，上面有想要的存款、身材、体重，还有去哪里玩。结果是愿景板上面的项目一个也没实现。我发现我经常设定很多目标，贴出来永远都实现不了。但是我这次有一种强烈的欲望，我做的新的愿景板跟以往不一样，我都是专门选的，对我视觉有强烈刺激的图片。\n一周后的显化\r其实我都没有想到我愿景板的显化来的那么快，之前已经没有接到单，自从开始换上了我新的愿景板，每天都有人询单。体重也在逐步的下降。整个人能量都处于一个比较高的状态。\n第一个真正意义的商单-订婚跟拍\r我经常在闲鱼上也会发摄影跟拍的产品，在五一假期的前两天，突然就接到一个工作室的订婚宴。直接让我一个措手不及， …",
-          cover: "https:\/\/example.org\/images\/banner.webp",
+          url: "http:\/\/localhost:56636\/post\/2025-5-6\/",
+          description: "\r愿景板\r2024愿景板\r我2024也做过一个愿景板，上面有想要的存款、身材、体重，还有去哪里玩。结果是愿景板上面的项目一个也没实现。我发现我经常设定很多目标，贴出来永远都实现不了。但是我这次有一种强烈的欲望，我做的新的愿景板跟以往不一样，我都是专门选的，对我视觉有强烈刺激的图片。\n",
+          cover: "http:\/\/localhost:56636\/images\/banner.webp",
         };
       </script>
     
@@ -1144,7 +1183,7 @@ move on
 
   
       
-      <script src="/js/insert_highlight.js" integrity="" crossorigin="anonymous" data-pjax></script>
+      <script src="/js/insert_highlight.js" data-pjax></script>
       
 
       

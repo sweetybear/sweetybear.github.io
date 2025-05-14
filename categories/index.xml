@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel><title>Categories on 熊爪蛋糕屋</title>
-    <link>https://example.org/categories/</link>
+    <link>http://localhost:56636/categories/</link>
     <description>Recent content from 熊爪蛋糕屋</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>zh-cn</language>
     <managingEditor>xxx@example.com (熊小令)</managingEditor>
     <webMaster>xxx@example.com (熊小令)</webMaster>
     
     <copyright>All website licensed under CC BY 4.0</copyright>
     
-    <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss&#43;xml" />
+    <atom:link href="http://localhost:56636/categories/index.xml" rel="self" type="application/rss&#43;xml" />
     
   </channel>
 </rss>
