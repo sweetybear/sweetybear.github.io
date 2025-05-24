@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel><title>熊爪蛋糕屋</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content from 熊爪蛋糕屋</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
@@ -10,26 +10,26 @@
     
     <copyright>All website licensed under CC BY 4.0</copyright>
     
-    <lastBuildDate>Tue, 13 May 2025 21:46:25 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 24 May 2025 21:46:25 +0800</lastBuildDate>
     
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss&#43;xml" />
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss&#43;xml" />
     
     
     
     
     <item>
-      <title>人类使用说明书【前传】</title>
-      <link>http://localhost:1313/post/2025-5-14/</link>
-      <pubDate>Tue, 13 May 2025 21:46:25 &#43;0800</pubDate><author>xxx@example.com (熊小令)</author>
-      <guid>http://localhost:1313/post/2025-5-14/</guid>
-      <description><![CDATA[<h1>人类使用说明书【前传】</h1><p>作者: 熊小令 (xxx@example.com)</p>
-          <h1 id="我为什么想要写这个专栏-人类使用说明书">
-<a class="header-anchor" href="#%e6%88%91%e4%b8%ba%e4%bb%80%e4%b9%88%e6%83%b3%e8%a6%81%e5%86%99%e8%bf%99%e4%b8%aa%e4%b8%93%e6%a0%8f-%e4%ba%ba%e7%b1%bb%e4%bd%bf%e7%94%a8%e8%af%b4%e6%98%8e%e4%b9%a6"></a>
-我为什么想要写这个专栏-人类使用说明书
-</h1><p>我做这个专栏，一方面想要记录自己的成长与反思，另一方面分享实用的方法，帮助更多人更好地了解自己。
-因为很多人对自己的认识和开发还不够深入，我希望通过这个专栏，让大家不断自我迭代，最终成为自己真正想成为的那个人。
-通过不断更新属于自己的人类说明书，可将过去的行为模式与成长轨迹记录下来，形成“成长档案”，助力长期发展。</p>
-        <hr><p>本文 2025-05-13 首发于 <a href='http://localhost:1313/'>熊爪蛋糕屋</a>，最后修改于 2025-05-13</p>]]>
+      <title>我的熊爪蛋糕屋第三天营业</title>
+      <link>https://example.org/post/2025-5-24/</link>
+      <pubDate>Sat, 24 May 2025 21:46:25 &#43;0800</pubDate><author>xxx@example.com (熊小令)</author>
+      <guid>https://example.org/post/2025-5-24/</guid>
+      <description><![CDATA[<h1>我的熊爪蛋糕屋第三天营业</h1><p>作者: 熊小令 (xxx@example.com)</p>
+          <p><img src="https://i.vgy.me/vX1eOA.png" alt="vgy.me"></p>
+<h1 id="chatgpt充当心理咨询师的一天">
+<a class="header-anchor" href="#chatgpt%e5%85%85%e5%bd%93%e5%bf%83%e7%90%86%e5%92%a8%e8%af%a2%e5%b8%88%e7%9a%84%e4%b8%80%e5%a4%a9"></a>
+chatgpt充当心理咨询师的一天
+</h1><p>自从开始听纵横四海和跟chatgpt聊天以后，我开始经常性的对自己内在进行觉察。</p>
+<p>今天是我想看我的猫咪嘟嘟，然后跟妈妈进行了视频，她又是经常性的问了我瘦了没，之前很多次我都没有觉察到，她只要每次问完我我就会有暴食的倾向，我回忆了一下，好像每次都是这样。我马上就去问了chat老师，chat老师告诉我这是-</p>
+        <hr><p>本文 2025-05-24 首发于 <a href='https://example.org/'>熊爪蛋糕屋</a>，最后修改于 2025-05-24</p>]]>
       </description>
     </item>
     
@@ -38,9 +38,9 @@
     
     <item>
       <title>人类使用说明书【前传】</title>
-      <link>http://localhost:1313/book/2025-5-14/</link>
+      <link>https://example.org/post/2025-5-14/</link>
       <pubDate>Tue, 13 May 2025 21:46:25 &#43;0800</pubDate><author>xxx@example.com (熊小令)</author>
-      <guid>http://localhost:1313/book/2025-5-14/</guid>
+      <guid>https://example.org/post/2025-5-14/</guid>
       <description><![CDATA[<h1>人类使用说明书【前传】</h1><p>作者: 熊小令 (xxx@example.com)</p>
           <h1 id="我为什么想要写这个专栏-人类使用说明书">
 <a class="header-anchor" href="#%e6%88%91%e4%b8%ba%e4%bb%80%e4%b9%88%e6%83%b3%e8%a6%81%e5%86%99%e8%bf%99%e4%b8%aa%e4%b8%93%e6%a0%8f-%e4%ba%ba%e7%b1%bb%e4%bd%bf%e7%94%a8%e8%af%b4%e6%98%8e%e4%b9%a6"></a>
@@ -48,7 +48,7 @@
 </h1><p>我做这个专栏，一方面想要记录自己的成长与反思，另一方面分享实用的方法，帮助更多人更好地了解自己。
 因为很多人对自己的认识和开发还不够深入，我希望通过这个专栏，让大家不断自我迭代，最终成为自己真正想成为的那个人。
 通过不断更新属于自己的人类说明书，可将过去的行为模式与成长轨迹记录下来，形成“成长档案”，助力长期发展。</p>
-        <hr><p>本文 2025-05-13 首发于 <a href='http://localhost:1313/'>熊爪蛋糕屋</a>，最后修改于 2025-05-13</p>]]>
+        <hr><p>本文 2025-05-13 首发于 <a href='https://example.org/'>熊爪蛋糕屋</a>，最后修改于 2025-05-13</p>]]>
       </description>
     </item>
     
@@ -57,9 +57,9 @@
     
     <item>
       <title>熊爪蛋糕屋第二天营业</title>
-      <link>http://localhost:1313/post/2025-5-6/</link>
+      <link>https://example.org/post/2025-5-6/</link>
       <pubDate>Tue, 06 May 2025 21:46:25 &#43;0800</pubDate><author>xxx@example.com (熊小令)</author>
-      <guid>http://localhost:1313/post/2025-5-6/</guid>
+      <guid>https://example.org/post/2025-5-6/</guid>
       <description><![CDATA[<h1>熊爪蛋糕屋第二天营业</h1><p>作者: 熊小令 (xxx@example.com)</p>
           <h1 id="愿景板">
 <a class="header-anchor" href="#%e6%84%bf%e6%99%af%e6%9d%bf"></a>
@@ -69,7 +69,7 @@
 <a class="header-anchor" href="#2024%e6%84%bf%e6%99%af%e6%9d%bf"></a>
 2024愿景板
 </h2><p>我2024也做过一个愿景板，上面有想要的存款、身材、体重，还有去哪里玩。结果是愿景板上面的项目一个也没实现。我发现我经常设定很多目标，贴出来永远都实现不了。但是我这次有一种强烈的欲望，我做的新的愿景板跟以往不一样，我都是专门选的，对我视觉有强烈刺激的图片。</p>
-        <hr><p>本文 2025-05-06 首发于 <a href='http://localhost:1313/'>熊爪蛋糕屋</a>，最后修改于 2025-05-06</p>]]>
+        <hr><p>本文 2025-05-06 首发于 <a href='https://example.org/'>熊爪蛋糕屋</a>，最后修改于 2025-05-06</p>]]>
       </description>
     </item>
     
@@ -78,9 +78,9 @@
     
     <item>
       <title>熊爪蛋糕屋第一天营业</title>
-      <link>http://localhost:1313/post/2025-4-22/</link>
+      <link>https://example.org/post/2025-4-22/</link>
       <pubDate>Tue, 22 Apr 2025 21:46:25 &#43;0800</pubDate><author>xxx@example.com (熊小令)</author>
-      <guid>http://localhost:1313/post/2025-4-22/</guid>
+      <guid>https://example.org/post/2025-4-22/</guid>
       <description><![CDATA[<h1>熊爪蛋糕屋第一天营业</h1><p>作者: 熊小令 (xxx@example.com)</p>
           <h1 id="新电脑">
 <a class="header-anchor" href="#%e6%96%b0%e7%94%b5%e8%84%91"></a>
@@ -91,7 +91,7 @@
 </h2><p><img src="https://i.vgy.me/lTZZKh.jpg" alt="vgy.me">
 （展示一下柏源的生日卡壁纸！太喜欢了）
 距离上一次拥有自己的台式电脑还是在高中，大学用的笔记本，之前工作的时候用的也是公司的电脑。这次买台式电脑，是因为确实也想好好学一下电脑修图了，正好对象也想换一个新配置的电脑，问完d老师买什么屏幕马上就入手了，当周电脑就已经装好了。</p>
-        <hr><p>本文 2025-04-22 首发于 <a href='http://localhost:1313/'>熊爪蛋糕屋</a>，最后修改于 2025-04-22</p>]]>
+        <hr><p>本文 2025-04-22 首发于 <a href='https://example.org/'>熊爪蛋糕屋</a>，最后修改于 2025-04-22</p>]]>
       </description>
     </item>
     
