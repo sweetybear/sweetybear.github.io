@@ -1,3 +1,4 @@
+@charset "UTF-8";
 [data-theme="dark"] #loader .loading-bg {
   background-color: rgba(37, 37, 37, 0.9);
 }
@@ -45,7 +46,7 @@
   top: calc(50% + 110px);
   left: 50%;
   transform: translate(-50%, -50%);
-  font: 700 1.2rem "Mulish", "Noto Serif SC", "Mulish", "Noto Serif SC", "-apple-system", "PingFang SC", "Microsoft YaHei", "sans-serif";
+  font: 700 1.2rem "寒蝉全圆体 Bold", "Mulish", "Noto Serif SC", "-apple-system", "PingFang SC", "Microsoft YaHei", "sans-serif";
 }
 
 #loader.loading .loading-left-bg {
